@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "544332000856",
+    "project_id": "curate-e77a0",
+    "storage_bucket": "curate-e77a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544332000856:android:f15535f97528811b50a42d",
+        "android_client_info": {
+          "package_name": "com.illuminz.curate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544332000856-iefrdel4rfeg4jo4h7d5valftjp2bnpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.illuminz.curate",
+            "certificate_hash": "b362186b321bfb75562e9e68c9be3398ac928c01"
+          }
+        },
+        {
+          "client_id": "544332000856-uevvott5si3toeu29io2uiom8tnctqit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.illuminz.curate",
+            "certificate_hash": "4df43c3537d0d55ab5581d8bb1ac5cf7cc4d18fc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnF3QUzaImfevnYVTLq7l_hm2PyIHoxk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544332000856-naohjboib1cp6phhteldj7qion0qbpgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.curate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

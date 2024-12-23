@@ -1,0 +1,5 @@
+package com.example.curate_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
